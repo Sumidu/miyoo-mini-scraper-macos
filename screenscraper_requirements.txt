@@ -1,0 +1,20 @@
+# Core dependencies for ScreenScraper.fr Python Library
+requests>=2.25.0
+
+# Optional development dependencies
+# Install with: pip install -r requirements-dev.txt
+
+# For testing
+pytest>=6.0.0
+pytest-cov>=2.10.0
+
+# For code formatting and linting
+black>=21.0.0
+flake8>=3.8.0
+mypy>=0.812
+
+# For examples and additional features
+pillow>=8.0.0  # Image processing for examples
+
+# Documentation
+sphinx>=4.0.0  # If you want to generate docs
